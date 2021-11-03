@@ -8,6 +8,7 @@
 
 import UIKit
 import UNIPPlusPods
+import Core
 
 class ViewController: UIViewController {
 

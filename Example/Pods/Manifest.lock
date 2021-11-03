@@ -1,10 +1,16 @@
 PODS:
-  - Core (1.0.0)
+  - Core (1.0.0):
+    - RxSwift
+  - RxSwift (6.2.0)
   - UNIPPlusPods (1.0.0)
 
 DEPENDENCIES:
   - Core (from `../`)
   - UNIPPlusPods (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - RxSwift
 
 EXTERNAL SOURCES:
   Core:
@@ -13,8 +19,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Core: badeadd784258223d2e0e027bce8328a89825500
-  UNIPPlusPods: 3144e561f81fc88a76dfda8432d81f13586d8ba1
+  Core: e42b165488cb54b1bd2132ca02b3927f5e10f8a0
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  UNIPPlusPods: 14dbb83445060974105e5da54e092cedffdd76f3
 
 PODFILE CHECKSUM: 0424f5639bdd5fec9aad73c89e2454f86f403c98
 

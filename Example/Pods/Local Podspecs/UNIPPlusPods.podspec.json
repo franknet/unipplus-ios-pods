@@ -15,7 +15,7 @@
   "platforms": {
     "ios": "9.0"
   },
-  "swift_versions": "5.0",
+  "swift_versions": "5.5",
   "source_files": "UNIPPlusPods/Classes/**/*",
-  "swift_version": "5.0"
+  "swift_version": "5.5"
 }

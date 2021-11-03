@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class Utils {
+public class UPUtils {
     
     public init() {}
     
