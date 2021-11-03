@@ -293,12 +293,14 @@
 				"${PODS_ROOT}/Target Support Files/Pods-UNIPPlusPods_Example/Pods-UNIPPlusPods_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Core/Core.framework",
 				"${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/Theme/Theme.framework",
 				"${BUILT_PRODUCTS_DIR}/UNIPPlusPods/UNIPPlusPods.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Core.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Theme.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UNIPPlusPods.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
