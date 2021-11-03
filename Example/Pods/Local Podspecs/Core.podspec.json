@@ -1,0 +1,21 @@
+{
+  "name": "Core",
+  "version": "1.0.0",
+  "summary": "UNIP Plus core pod",
+  "description": "UNIP Plus core features",
+  "homepage": "https://github.com/franknet/unipplus-ios-pods.git",
+  "license": "MIT",
+  "authors": {
+    "franknet": "franklinsilvaalves@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/franknet/unipplus-ios-pods.git",
+    "tag": "pods-1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Core/**/*",
+  "swift_version": "5.0"
+}

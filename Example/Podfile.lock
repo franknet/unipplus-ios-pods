@@ -1,16 +1,21 @@
 PODS:
-  - UNIPPlusCore (0.1.0)
+  - Core (1.0.0)
+  - UNIPPlusPods (1.0.0)
 
 DEPENDENCIES:
-  - UNIPPlusCore (from `../`)
+  - Core (from `../`)
+  - UNIPPlusPods (from `../`)
 
 EXTERNAL SOURCES:
-  UNIPPlusCore:
+  Core:
+    :path: "../"
+  UNIPPlusPods:
     :path: "../"
 
 SPEC CHECKSUMS:
-  UNIPPlusCore: 5f437ae50a1cd53ccef787109e789f6e38f90d3b
+  Core: badeadd784258223d2e0e027bce8328a89825500
+  UNIPPlusPods: 3144e561f81fc88a76dfda8432d81f13586d8ba1
 
-PODFILE CHECKSUM: 7ef0e267608d6a0282157a989cb700e2a1804f12
+PODFILE CHECKSUM: 0424f5639bdd5fec9aad73c89e2454f86f403c98
 
 COCOAPODS: 1.11.2

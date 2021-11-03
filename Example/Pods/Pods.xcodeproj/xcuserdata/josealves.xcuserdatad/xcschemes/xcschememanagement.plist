@@ -4,17 +4,22 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-UNIPPlusCore_Example.xcscheme</key>
+		<key>Core.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-UNIPPlusCore_Tests.xcscheme</key>
+		<key>Pods-UNIPPlusPods_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>UNIPPlusCore.xcscheme</key>
+		<key>Pods-UNIPPlusPods_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UNIPPlusPods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

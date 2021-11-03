@@ -2,10 +2,11 @@ use_frameworks!
 
 platform :ios, '9.0'
 
-target 'UNIPPlusCore_Example' do
-  pod 'UNIPPlusCore', :path => '../'
+target 'UNIPPlusPods_Example' do
+  pod 'UNIPPlusPods', :path => '../'
+  pod 'Core', :path => '../'
 
-  target 'UNIPPlusCore_Tests' do
+  target 'UNIPPlusPods_Tests' do
     inherit! :search_paths
 
     

@@ -1,6 +1,0 @@
-framework module UNIPPlusCore {
-  umbrella header "UNIPPlusCore-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -1,5 +1,5 @@
 import XCTest
-import UNIPPlusCore
+import UNIPPlusPods
 
 class Tests: XCTestCase {
     
