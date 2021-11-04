@@ -4,23 +4,21 @@ PODS:
   - Theme (0.1.0)
 
 DEPENDENCIES:
-  - Components (from `../`)
-  - Core (from `../`)
-  - Theme (from `../`)
+  - Components (~> 0.1.0)
+  - Core (~> 0.1.0)
+  - Theme (~> 0.1.0)
 
-EXTERNAL SOURCES:
-  Components:
-    :path: "../"
-  Core:
-    :path: "../"
-  Theme:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/franknet/unipplus-ios-pods.git:
+    - Components
+    - Core
+    - Theme
 
 SPEC CHECKSUMS:
-  Components: 1457a08f82c20f0b8834f718a1ab6c8938ee22d1
-  Core: 31d17d37e987c007db5dba4b422f86877816c73d
-  Theme: 0f6ba890a921f0416369c8d62bb1f573137a7203
+  Components: ac82737f5012bd4fa1fd8f22dbc4af0ea9ce9105
+  Core: 39fde2e7813c4f3c238df70159d206558fbb6f3c
+  Theme: c4cc7c98f2d88e85d4f340421de2ed91e6b6430a
 
-PODFILE CHECKSUM: fe19d22f9d051a201edc6243ec2de1f3b4603e67
+PODFILE CHECKSUM: 07cf560a92db50bae6f562ea8ba96ba31d6c9f6b
 
 COCOAPODS: 1.11.2
