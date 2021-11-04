@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT" 
   spec.author             = { "José Franklin" => "franklinsilvaalves@gmail.com" } 
   spec.platform     = :ios, "12.0"
-  spec.source       = { :git => "https://github.com/franknet/unipplus-ios-pods.git", :tag => "pod-core-#{spec.version}" }
+  spec.source       = { :git => "https://github.com/franknet/unipplus-ios-pods.git", :tag => "#{spec.version}" }
   spec.source_files  = "Theme/**/*" 
 
 end

@@ -1,8 +1,8 @@
 {
-  "name": "Components",
+  "name": "Theme",
   "version": "0.1.0",
-  "summary": "Components app dependency",
-  "description": "Pod containing custom components",
+  "summary": "Theme app dependency",
+  "description": "Pod with fonts, colors, images and styles",
   "homepage": "https://github.com/franknet/unipplus-ios-pods.git",
   "license": "MIT",
   "authors": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/franknet/unipplus-ios-pods.git",
-    "tag": "0.1.0"
+    "tag": "pod-core-0.1.0"
   },
-  "source_files": "Components/**/*"
+  "source_files": "Theme/**/*"
 }

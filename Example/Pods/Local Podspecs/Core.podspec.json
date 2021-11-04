@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/franknet/unipplus-ios-pods.git",
-    "tag": "pod-core-0.1.0"
+    "tag": "0.1.0"
   },
   "source_files": "Core/**/*"
 }

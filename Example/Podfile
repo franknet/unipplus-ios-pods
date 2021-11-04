@@ -9,6 +9,7 @@ target 'Example' do
 
   # Pods for Example
   pod 'Core', :path => '../'
+  pod 'Theme', :path => '../'
   pod 'Components', :path => '../'
 
   target 'ExampleTests' do
