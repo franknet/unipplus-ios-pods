@@ -45,7 +45,7 @@
 		7E8A71EA03C24457FF079EC4CFDA6AC8 /* Pods-Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Example-dummy.m"; sourceTree = "<group>"; };
 		803067310A1EF4CCBC35DC643B2B525B /* Pods-Example-ExampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Example-ExampleUITests.release.xcconfig"; sourceTree = "<group>"; };
 		958CA2BF07D35A0EBD6CFAC2C0FFE2DF /* Pods-Example-ExampleUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Example-ExampleUITests.modulemap"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A9D34CB0D8E5E357C59B5F15F320C9E2 /* Pods-ExampleTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ExampleTests.modulemap"; sourceTree = "<group>"; };
 		B4E3D02D3ACC0A0CFDA0C5BA77B94C35 /* Pods-ExampleTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ExampleTests-dummy.m"; sourceTree = "<group>"; };
 		BE89786B13874BF3EBE4B66E935C2E29 /* Pods-Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -158,6 +158,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				E3AB3B8B273359C700894131 /* Pod Development */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				E01B576385D9934351E16FD359CAE83C /* Products */,
 				5EA6EADCE590579EED93ADC51D605473 /* Targets Support Files */,
@@ -180,6 +181,13 @@
 				630CABE8F692FCDBFD1B122A2D0CE388 /* Pods-ExampleTests */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		E3AB3B8B273359C700894131 /* Pod Development */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Pod Development";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
