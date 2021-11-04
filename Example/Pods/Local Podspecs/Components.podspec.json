@@ -1,0 +1,24 @@
+{
+  "name": "Components",
+  "version": "0.1.0",
+  "summary": "Components app dependency",
+  "description": "Pod containing custom components",
+  "homepage": "https://github.com/franknet/unipplus-ios-pods.git",
+  "license": "MIT",
+  "authors": {
+    "José Franklin": "franklinsilvaalves@gmail.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/franknet/unipplus-ios-pods.git",
+    "tag": "pod-components-0.1.0"
+  },
+  "source_files": "Components/**/*",
+  "dependencies": {
+    "Theme": [
+      "~> 0.1.0"
+    ]
+  }
+}
